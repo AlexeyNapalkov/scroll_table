@@ -1,16 +1,12 @@
 # scroll_table
 
-приложение с двумерным скролингом
+реализация табличного скроллинга однотипных элементов
 
-## Getting Started
+## Очем ваще это
 
-This project is a starting point for a Flutter application.
+Это плоский бесконечный список и индексируемыми элементами реализованный на ListView.builder.
+Горизонтальный список элементов вложен в вертикальный список.
+Каждый элемент таблицы имеет пару координат по которым элементы могут загружать данные из двумерных источников данных
 
-A few resources to get you started if this is your first Flutter project:
+[скриншот].(https://github.com/AlexeyNapalkov/scroll_table/blob/master/ru.napalkov.scroll_table.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
