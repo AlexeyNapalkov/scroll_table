@@ -8,5 +8,5 @@
 Горизонтальный список элементов вложен в вертикальный список.
 Каждый элемент таблицы имеет пару координат по которым элементы могут загружать данные из двумерных источников данных
 
-[скриншот].(https://github.com/AlexeyNapalkov/scroll_table/blob/master/ru.napalkov.scroll_table.jpg)
+![](https://github.com/AlexeyNapalkov/scroll_table/blob/master/ru.napalkov.scroll_table.png)
 
